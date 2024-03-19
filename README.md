@@ -1,7 +1,8 @@
-# Table Top Web Panel
+# Desktop Screen Clock
 Create a table top web panel (headless browser with automatic refresh) with a rapsberry pi 0
 
-![Finished](https://raw.githubusercontent.com/khinds10/TableTopWebPanel/main/construction/XXX.png)
+![Finished](https://raw.githubusercontent.com/khinds10/TableTopWebPanel/main/construction/IMG_20240308_065437.jpg)
+
 
 #### Flashing RaspberriPi Hard Disk / Install Required Software (Using Ubuntu Linux)
 
@@ -245,4 +246,4 @@ Setup the crontab to:
 
 # Finished!
 
-![Finished](https://raw.githubusercontent.com/khinds10/TableTopWebPanel/main/construction/XXX.png)
+![Finished](https://raw.githubusercontent.com/khinds10/TableTopWebPanel/main/construction/IMG_20240308_065437.jpg)
