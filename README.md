@@ -1,7 +1,7 @@
 # Desktop Screen Clock
 Create a table top web panel (headless browser with automatic refresh) with a rapsberry pi 0
 
-![Finished](https://raw.githubusercontent.com/khinds10/TableTopWebPanel/main/construction/IMG_20240308_065437.jpg)
+![Finished](https://raw.githubusercontent.com/khinds10/DesktopScreenClock/main/construction/IMG_20240308_065437.jpg)
 
 
 #### Flashing RaspberriPi Hard Disk / Install Required Software (Using Ubuntu Linux)
@@ -137,23 +137,23 @@ Add the following lines to have your raspberrypi automatically connect to your h
 
 **RaspberryPi Zero**
 
-![RaspberryPi Zero](https://raw.githubusercontent.com/khinds10/TableTopWebPanel/main/construction/PiZero.jpg)
+![RaspberryPi Zero](https://raw.githubusercontent.com/khinds10/DesktopScreenClock/main/construction/PiZero.jpg)
 
 **USB WIFI (if not a PiZero W)**
 
-![USB WIFI (if not a PiZero W)](https://raw.githubusercontent.com/khinds10/TableTopWebPanel/main/construction/wifi.jpg)
+![USB WIFI (if not a PiZero W)](https://raw.githubusercontent.com/khinds10/DesktopScreenClock/main/construction/wifi.jpg)
 
 **DHT22**
 
-![DHT22](https://raw.githubusercontent.com/khinds10/TableTopWebPanel/main/construction/DHT22.png)
+![DHT22](https://raw.githubusercontent.com/khinds10/DesktopScreenClock/main/construction/DHT22.png)
 
 **5 Inch Touchscreen for Raspberry Pi**
 
-![5Inch](https://raw.githubusercontent.com/khinds10/TableTopWebPanel/main/construction/5Inch.png)
+![5Inch](https://raw.githubusercontent.com/khinds10/DesktopScreenClock/main/construction/5Inch.png)
 
 **Semi-Transparent PlexiGlass**
 
-![Semi-Transparent PlexiGlass](https://raw.githubusercontent.com/khinds10/TableTopWebPanel/main/construction/glass.png)
+![Semi-Transparent PlexiGlass](https://raw.githubusercontent.com/khinds10/DesktopScreenClock/main/construction/glass.png)
 
 # Building the TableTopWebPanel
 
@@ -161,11 +161,11 @@ Add the following lines to have your raspberrypi automatically connect to your h
 
 Connect the DHT22 as follows in the diagram
 
-![wiring](https://raw.githubusercontent.com/khinds10/TableTopWebPanel/main/construction/wiring.png)
+![wiring](https://raw.githubusercontent.com/khinds10/DesktopScreenClock/main/construction/wiring.png)
 
 Connect the 5 inch monitor as you would a normal monitor through the HDMI port on the raspberrypi.
 
-![HDMI](https://raw.githubusercontent.com/khinds10/TableTopWebPanel/main/construction/1.jpg)
+![HDMI](https://raw.githubusercontent.com/khinds10/DesktopScreenClock/main/construction/1.jpg)
 
 ### Assembly
 
@@ -246,4 +246,4 @@ Setup the crontab to:
 
 # Finished!
 
-![Finished](https://raw.githubusercontent.com/khinds10/TableTopWebPanel/main/construction/IMG_20240308_065437.jpg)
+![Finished](https://raw.githubusercontent.com/khinds10/DesktopScreenClock/main/construction/IMG_20240308_065437.jpg)
