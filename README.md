@@ -189,7 +189,7 @@ $ vi .xinitrc
 
 $ vi .bash_profile
 
-> if [ -z $DISPLAY ] && [ $(tty) = /dev/tty1 ]
+> if [ -z $DISPLAY ] && [ $(tty) = /dev/tty1]
 
 > then
 
