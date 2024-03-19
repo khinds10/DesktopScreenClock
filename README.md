@@ -46,7 +46,7 @@ Choose:
 
 `9 Advanced Options`
 >`A2 Hostname`
->*change it to "TableTopWebPanel"*
+>*change it to "DesktopScreenClock"*
 >
 >`A4 SSH`
 >*Enable SSH Server*
@@ -155,7 +155,7 @@ Add the following lines to have your raspberrypi automatically connect to your h
 
 ![Semi-Transparent PlexiGlass](https://raw.githubusercontent.com/khinds10/DesktopScreenClock/main/construction/glass.png)
 
-# Building the TableTopWebPanel
+# Building the Desktop Screen Clock
 
 ### Wiring the Components
 
